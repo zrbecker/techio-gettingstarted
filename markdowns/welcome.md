@@ -22,6 +22,6 @@ Another coding exercise!
   "stubs": ["double_counted.py"],
   "command": "python3 test_double_counted.py",
   "project": "python-project2",
-  "layout": "aside"
+  "layout": "inline"
 })
 
