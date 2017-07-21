@@ -3,6 +3,8 @@ title : Test Tutorial Please Ignore
 plan:
   - title: Welcome to the Hello World Page
     statement: markdowns/welcome.md
+  - title: High Quality Content
+    statement: markdowns/part2.md
 
 
 # Settings for your programming projects and the associated Docker images
