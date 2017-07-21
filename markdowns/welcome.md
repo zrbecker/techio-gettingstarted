@@ -11,9 +11,16 @@ This is the first quiz!
 -[ ] Peace & Love
 
 Coding Exercise!
-@[Luke, how many stars are there in these galaxies?]({"stubs": ["universe.py"],
-"command": "python3 test_universe.py", "project": "python"})
+@[Luke, how many stars are there in these galaxies?]({
+  "stubs": ["universe.py"],
+  "command": "python3 test_universe.py",
+  "project": "python"
+})
 
 Another coding exercise!
-@[This is another exercise]({"stubs": ["double_counted.py"],
-"command": "python3 test_double_counted.py", "project": "python-project2"})
+@[This is another exercise]({
+  "stubs": ["double_counted.py"],
+  "command": "python3 test_double_counted.py",
+  "project": "python-project2"
+})
+
