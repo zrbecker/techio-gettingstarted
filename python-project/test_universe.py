@@ -25,10 +25,14 @@ def success():
 
 def fail():
     print("TECHIO> success false")
+
+def static_html(directory, filename):
+    print("TECHIO> open -s {} {}".format(directory, filename))
     
 
 def test_count_all_stars():
     try:
+        static_html('/project/target/www', 'HelloWorld.html')
         count1 = count_all_stars([2, 3])
         assert count1 == 5, "Running count_all_stars([2, 3])... Expected 5, got {}".format(count1)
         count2 = count_all_stars([9, -3])
