@@ -21,6 +21,7 @@ Another coding exercise!
 @[This is another exercise]({
   "stubs": ["double_counted.py"],
   "command": "python3 test_double_counted.py",
-  "project": "python-project2"
+  "project": "python-project2",
+  "layout": "aside"
 })
 
