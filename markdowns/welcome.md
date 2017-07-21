@@ -12,8 +12,8 @@ This is the first quiz!
 
 Coding Exercise!
 @[Luke, how many stars are there in these galaxies?]({"stubs": ["universe.py"],
-"command": "python3 test_universe.py"})
+"command": "python3 test_universe.py", "project": "python"})
 
 Another coding exercise!
 @[This is another exercise]({"stubs": ["double_counted.py"],
-"command": "python3 test_double_counted.py"})
+"command": "python3 test_double_counted.py", "project": "python-project2"})
